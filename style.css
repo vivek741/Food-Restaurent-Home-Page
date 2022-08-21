@@ -15,7 +15,7 @@ body  {
 }
 .container{
   background-color: rgba(26, 20, 81, 0.667);
-  
+  height: 100vh;
   padding: 0 5%;
 }
 .navbar{
